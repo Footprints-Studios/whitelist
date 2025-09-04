@@ -1,33 +1,35 @@
 # WHITELIST  
-------------Footprints-Studios-----------  
------------@FOOTPRINTS-2025---------  
 
-# ADMINS  
+#### FOR VORP FRAMEWORK
+
+## FEATURES  
+
+### ADMINS  
 Steam ID
   
-# ONLY ADMIN COMMANDS  
-ADMIN EINREISE TELEPORT:  
+### ONLY ADMIN COMMANDS  
+Admin Einreise Tp:  
 /rein ID  
 /raus ID  
 
 SPIELER EINREISEN:   
 /einreise ID Stadtkürzel   
 
-# STADTKÜRZEL 
-SAINT DENIS - sd   
-RHODES - rh  
-VALENTINE - va  
-BLACKWATER - bw  
-STRAWBERRY - sb  
-ARMADILLO - am  
-TUMBLEWEED - tw  
+### STADTKÜRZEL 
+Saint Denis - sd   
+Rhodes - rh  
+Valentine - va  
+Blackwater - bw  
+Strawberry - sb  
+Armadillo - am  
+Tumbleweed - tw  
 
-# DEFAULT EINREISE 
-GUARMA PORT    
+### DEFAULT EINREISE 
+Guarma Port    
 
-# NPC INTEGRATION  
-SUPPORTER RUFEN  
-KEYBIND: G
+### NPC INTERAKTION  
+Supporter rufen  
+Keybind: G
 
-# DISCORD LOGGING   
+## DISCORD LOGGING   
 WEBHOOK URL LINK
