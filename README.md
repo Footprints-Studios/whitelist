@@ -14,10 +14,10 @@ SPIELER EINREISEN:
 /einreise ID Stadtkürzel   
 
 # STADTKÜRZEL 
-VALENTINE - va  
-SAINT DENIS - sd  
-BLACKWATER - bw  
+SAINT DENIS - sd   
 RHODES - rh  
+VALENTINE - va  
+BLACKWATER - bw  
 STRAWBERRY - sb  
 ARMADILLO - am  
 TUMBLEWEED - tw  
