@@ -29,7 +29,7 @@ Guarma Port
 
 ### NPC INTERAKTION  
 Supporter rufen  
-Keybind: G
+Keybind: G (default)
 
 ## DISCORD LOGGING   
 WEBHOOK URL LINK
