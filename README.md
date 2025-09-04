@@ -1,1 +1,33 @@
-# whitelist
+# WHITELIST  
+------------Footprints-Studios-----------  
+-----------@FOOTPRINTS-2025---------  
+
+# ADMINS  
+Steam ID
+  
+# ONLY ADMIN COMMANDS  
+ADMIN EINREISE TELEPORT:  
+/rein ID  
+/raus ID  
+
+SPIELER EINREISEN:   
+/einreise ID Stadtkürzel   
+
+# STADTKÜRZEL 
+VALENTINE - va  
+SAINT DENIS - sd  
+BLACKWATER - bw  
+RHODES - rh  
+STRAWBERRY - sb  
+ARMADILLO - am  
+TUMBLEWEED - tw  
+
+# DEFAULT EINREISE 
+GUARMA PORT    
+
+# NPC INTEGRATION  
+SUPPORTER RUFEN  
+KEYBIND: G
+
+# DISCORD LOGGING   
+WEBHOOK URL LINK
